@@ -1,0 +1,6 @@
+---
+layout: post
+title: 第一篇
+---
+
+使用jekyll+github搭建博客成功，以后要写点东西了.
